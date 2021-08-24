@@ -10,7 +10,7 @@ The script accesses the PopCat's Vue app instance directly and manipulate the ke
 
 ## About Popcat Rules
 
-- API rate limit = 800 clicks per 30 seconds (So far I can't bypass this)
+- API rate limit = 800 clicks per 30 seconds (So far I can't bypass this)....
 - If you send 800 clicks or above, system will only record 800 clicks & spam score +1
 - If you hit 10 spam scores, system will mark you as bot & no further clicks will be sent to API
 
